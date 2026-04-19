@@ -443,7 +443,64 @@ Level | XP Progression          | Milestone
 **Treasure**
 - 1x Moderate Healing Potion
 
+## Day 14: Boarding School
+**Skills**
+- **Reflex** DC 12 or lose their grip and fall into the water
+
+## Day 19: Risky Games in the Bilges
+**Creatures**
+- 2x [Wormwood Pirates](Creatures/README.md#wormwood-pirate)
+
+## Day 21: Piracy!
+
 ## Part 2: The Man's Promise
+
+## Battle Approaches
+**Skills**
+- **Deception or Diplomacy** DC 16 to convince Krine to send two NPCs with them
+
+## The Sea
+**Creatures**
+- 4x [Weak Great White Sharks](https://2e.aonprd.com/Monsters.aspx?ID=3188&Weak=true&NoRedirect=1)
+
+## Round 1: Boarding Action
+**Creatures**
+- 6x [Rahadoumi Sailors](Creatures/README.md#rahadoumi-sailor)
+
+## Round 3: The Captain's Back
+**Skills**
+- **Perception** DC 12 to notice the sailor sneaking up on Harrigan
+
+## Round 6: Fleeing Sailors
+**Creatures**
+- 3x [Rahadoumi Sailors](Creatures/README.md#rahadoumi-sailor)
+
+**Skills**
+- **Sailing Lore or Athletics** DC 12 to release the boat
+
+## Round 11: Abandoning the Ship
+**Creatures**
+- 1x [Rahadoumi Officer](Creatures/README.md#rahadoumi-officer)
+- 2x [Rahadoumi Sailors](Creatures/README.md#rahadoumi-sailor)
+
+## Aftermath
+**Treasure**
+- 15 gp main plunder
+- If PCs took the aft deck and sterncastle within 6 rounds
+  - 3x Moderate Healing Potions
+  - 1x Invisibility Potion
+  - 10 gp
+- If a PC warned Harrigan of the surprise attack
+  - 1x Bands of Force
+  - 1x +1 Striking Shortsword
+- If the PCs did not warn the captain
+  - only 7 gp main plunder
+- For each sailor killed
+  - +3 gp to be divide among the PCs
+- If the PCs killed the Officer
+  - 10 additional gp to divide amongst the PCs; 20 additional gp if the Officer was captured alive
+- For each wormwood pirate accidentally killed
+  - deduct 15 gp from party plunder
 
 ## Part 3: Bonewrack Isle
 
