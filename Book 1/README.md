@@ -33,7 +33,7 @@ Level | XP Progression          | Milestone
 
 **Creatures:**
 - Master Scourge (uses statistics for a [Bosun](https://2e.aonprd.com/NPCs.aspx?ID=3600) replacing the naval pike with a [scourge](https://2e.aonprd.com/Weapons.aspx?ID=531).)
-- Wormwood Pirates (uses statistics for a [Rigger](https://2e.aonprd.com/NPCs.aspx?ID=3597).)
+- [Wormwood Pirates](Creatures/README.md#wormwood-pirates).)
 
 ## Mr. Plugg's Tests
 
@@ -300,6 +300,9 @@ Level | XP Progression          | Milestone
 
 ## A11. Bilges
 
+**Creatures:**
+- [Bilge Spider](Creatures/README.md#bilge-spider)
+
 **Treasure:**
 - 6x Good Manacles
 - 1x Leather Armor
@@ -312,6 +315,133 @@ Level | XP Progression          | Milestone
   - 1x Lesser Glue Bomb
   - 2x Matchsticks
   - 2 gp
+ 
+## A Pirate's Day
+
+**Rigger Tasks**
+- **1 Rigging Repair**
+  - **Athletics** DC 14 to climb the rigging
+  - **Sailing Lore or Crafting** DC 14 to repair the rigging
+- **2 Line Work**
+  - **Sailing Lore or Athletics** DC 14 to hoist and lower the sails
+  - **Fortitude** DC 14 to avoid being fatigued
+- **3 Upper Rigging Work**
+  - **Athletics** DC 14 to climb the rigging
+  - **Sailing Lore or Athletics** DC 14 to work the rigging
+- **4 Rope Work**
+  - **Sailing Lore or Athletics** to handle the ship's ropes
+- **5 Lookout**
+  - **Athletics** DC 14 to climb to the crow's nest
+  - **Perception** DC 14 to lookout
+- **6 Mainsail Duties**
+  - **Sailing Lore or Athletics** DC 14 to raise and lower the mainsail
+  - **Fortitude** DC 14 to avoid being fatigued
+
+**Swab Tasks**
+- **1 Man the Bilges**
+  - **Athletics** DC 15 to clean out the bilges
+  - **Fortitude** DC 14 to avoid being fatigued
+- **2 Rat Catcher**
+  - **Stealth or Survival** DC 14 to catch rats and other vermin
+- **3 Swab the Decks**
+  - **Athletics** DC 14 to mop and scrub the decks
+  - **Fortitude** DC 14 to avoid being fatigued
+- **4 Hauling Rope and Knot Work**
+  - **Sailing Lore or Athletics** DC 14 to tie and untie knots
+  - **Fortitude** DC 14 to avoid being fatigued
+- **5 Runner**
+  - **Acrobatics** DC 14 to deliver messages [A PC with the Fleet feat automatically succeeds]
+  - **Fortitude** DC 14 to avoid being fatigued
+- **6 Repairs**
+  - **Sailing Lore or Crafting** DC 14 to repair items on the ship
+ 
+**Cook's Mate Tasks**
+- **1 or 2 Cooking**
+  - **Cooking Lore or Crafting** DC 14 to cook the day's food
+- **3 Fishing**
+  - **Fishing Lore or Survival** DC 14 to provide fish
+- **4 Turtle Hunting**
+  - **Fishing Lore or Survival** DC 14 to provide turtles
+- **6 Special Occasion**
+  - **Cooking Lore or Survival** DC 14 to kill and butcher the pig
+  - **Cooking Lore or Crafting** DC 16 to cook the pig
+ 
+**Daytime Ship Actions**
+- **Work Diligently**
+  - Gain a +2 bonus on any one check for a job's daily task
+- **Influence**
+  - Make normal checks for a job's daily tasks and attempt to influence a single NPC
+- **Sneak**
+  - Make normal checks for a job's daily task and briefly explore one area of the ship (the PC can make a single Perception check or other skill check with no chance of detection)
+- **Shop**
+  - Take a -2 penalty on all checks for a job's daily task and visit the quartermaster's store
+- **Shirk**
+  - Take a -2 penalty on all checks for a job's daily task and take time exploring one area of the ship. The PC can take 10 on a single Perception check or other skill check, but must make a check to avoid being discovered
+ 
+**Nighttime Ship Actions**
+- **Sleep**
+  - Go to bed early and sleep through the night (automatically recover from fatigue)
+- **Gamble**
+  - Play or gamble on a game of chance or pirate entertainment
+- **Entertain**
+  - Make one Performance check to entertain the crew
+- **Influence***
+  - Attempt to influence a single NPC
+- **Sneak***
+  - Take time exploring one area of the ship. The PC can take 20 on a single Perception check or other skill check, but must make a check to avoid being discovered
+- **Steal***
+  - Attempt to open a locked door or locker. The PC must make a check to avoid being discovered
+ 
+## Theft, Pilfering, and Secrecy Aboard the Wormwood
+**Attempting a Stealthy Action in a Crowd**
+- DC 18
+
+**Attempting a Stealthy Action where where is a chance of discovery**
+- DC 16
+
+**Attempting a Stealthy Action under cover of a suitable diversion**
+- DC 14
+
+## Day 1: A Keelhauling for Jakes Magpie
+**Skills**
+- **Perception** DC 16 to notice Mr. Plugg's relish
+- **Medicine** DC 16 to determine that Jakes took about 50 damage
+
+## Day 2: Laying Down the Law
+**Creatures**
+- 4x [Wormwood Pirates](Creatures/README.md#wormwood-pirates)
+
+## Day 4: Something in the Bilges
+**Skills**
+- **Perception** DC 14 to notice Scrimshaw's ashen face
+
+**Creatures**
+- 6x [Giant Rats](https://2e.aonprd.com/Monsters.aspx?ID=3162)
+
+## Day 5: The Owlbear
+**Creatures**
+- [Owlbear Hartshorn](Creatures/README.md#owlbear-hartshorn)
+
+**Treasure**
+- 10 gp if the chosen PC can win against Owlbear
+
+## Day 8: The Storm
+**Skills**
+- **Fortitude** DC 15 to avoid being fatigued or exhausted after their second shift
+- **Athletics** DC 30 to swim in stormy waters
+- **Fortitude** DC 17 to avoid being fatigued or exhausted after next day's tasks
+
+## Day 11: Trouble in the Sun
+**Skills**
+- **Athletics** DC 12 to swim in calm ocean waters
+- **Perception or Survival** DC 12 to spot a crab
+- **Athletics** DC 12 to swim down and catch the crab
+
+**Creatures**
+- 2x [Weak Reefclaws](https://2e.aonprd.com/Monsters.aspx?ID=3166&Weak=true&NoRedirect=1)
+
+**Treasure**
+- 1x Moderate Healing Potion
 
 ## Part 2: The Man's Promise
 
