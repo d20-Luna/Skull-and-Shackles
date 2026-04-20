@@ -33,7 +33,7 @@ Level | XP Progression          | Milestone
 
 **Creatures:**
 - Master Scourge (uses statistics for a [Bosun](https://2e.aonprd.com/NPCs.aspx?ID=3600) replacing the naval pike with a [scourge](https://2e.aonprd.com/Weapons.aspx?ID=531).)
-- [Wormwood Pirates](Creatures/README.md#wormwood-pirates).)
+- [Wormwood Pirates](Creatures/README.md#wormwood-pirates).
 
 ## Mr. Plugg's Tests
 
