@@ -13,7 +13,7 @@ Use the PF2 Tools JSON files with [https://monster.pf2.tools/]. Be aware these d
 * [PF2 Tools JSON](JSONs/MasterScourge.json)
 * [PDF](PDFs/MasterSourge.pdf)
 
-Sef is just an [Elite Skulk](http://2e.aonprd.com/Monsters.aspx?ID=805) with a bonus Throw Bomb action.
+
 
 ## New Creatures
 
@@ -23,3 +23,14 @@ Sef is just an [Elite Skulk](http://2e.aonprd.com/Monsters.aspx?ID=805) with a b
 
 * [PF2 Tools JSON](JSONs/WormwoodPirate.json)
 * [PDF](PDFs/WormwoodPirate.pdf)
+
+Wormwood Pirates are just [Pirates](https://2e.aonprd.com/NPCs.aspx?ID=3599) dropped to Level -1.
+
+### Bilge Spider
+
+![Bilge Spider](PNGs/BilgeSpider.png)
+
+* [PF2 Tools JSON](JSONs/BilgeSpider.json)
+* [PDF](PDFs/BilgeSpider.pdf)
+
+Bilge Spiders are just [Hunting Spiders](https://2e.aonprd.com/Monsters.aspx?ID=3207) dropped to Level -1 and with webs removed.
