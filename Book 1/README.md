@@ -596,7 +596,7 @@ Level | XP Progression          | Milestone
 ## The Swamp
 **Creatures**
 - [Fen Mosquito Swarm](https://2e.aonprd.com/Monsters.aspx?ID=4481) replacing Pyrexic Malaria with Forbidden Cravings from [Ghouls](https://2e.aonprd.com/MonsterFamilies.aspx?ID=419)
-- 1x-3x [Ghoul Stalkers](https://2e.aonprd.com/Monsters.aspx?ID=3009)
+- 1x-3x Ship's Whores - [Ghoul Stalkers](https://2e.aonprd.com/Monsters.aspx?ID=3009)
 
 ## C2. The Fist
 **Skills**
@@ -608,22 +608,119 @@ Level | XP Progression          | Milestone
 - 2x [Matchsticks](https://2e.aonprd.com/Equipment.aspx?ID=3356)
 
 ## C4. The Mire
+**Skills**
+- **Athletics** DC 19 to climb the cliffs on the swamp's western edge
+- **Perception** DC 14 to notice the tree canopy
+- **Athletics** DC 19 to climb the trees into the canopy
+- **Athletics** DC 16 to climb partway up the tree
+- **Acrobatics** DC 14 to swing across the mire
+- **Acrobatics** DC 14 to jump across the pilings of the old bridge
+
+**Hazards**
+- [Quicksand](https://2e.aonprd.com/Hazards.aspx?ID=493)
+
+**Creatures**
+- 2x [Giant Frogs](https://2e.aonprd.com/Monsters.aspx?ID=4404)
 
 ## C5. Whores' Boudoir
+**Creatures**
+- 3x Ship's Whores - [Ghoul Stalkers](https://2e.aonprd.com/Monsters.aspx?ID=3009)
+
+**Treasure**
+- 1x [Moderate Healing Potion](https://2e.aonprd.com/Equipment.aspx?ID=2943)
+- 2x [Daggers](https://2e.aonprd.com/Weapons.aspx?ID=358)
+- 1x [+1](https://2e.aonprd.com/Equipment.aspx?ID=2830) [Dagger](https://2e.aonprd.com/Weapons.aspx?ID=358)
+- 6x [Moderate Alchemist's Fire](https://2e.aonprd.com/Equipment.aspx?ID=3287)
+- 2x barrels of very cheap perfume worth 3 gp each
+- 1x wedding dress inlaid with gems worth 40 gp
+- 1x whalebone corset worth 2 gp
+- 12x hatpins worth 5 gp each
+- scattered gems worth 25 gp
+- 7 gp, 10 sp
 
 ## C6. Crab Palm Beach
+**Skills**
+- **Perception** DC 14 to notice the shattered coconuts
+
+**Creatures**
+- 3x [Giant Crabs](https://2e.aonprd.com/Monsters.aspx?ID=4302)
 
 ## C7. The Fields
+**Skills**
+- **Survival** DC 16 to follow the trail through the cornfield
+- **Perception** DC 22 to notice the skeletal remains
+- **Perception** DC 22 to locate treasure
+
+**Creatures**
+- 1x [Fen Mosquito Swarm](https://2e.aonprd.com/Monsters.aspx?ID=4481) replacing Pyrexic Malaria with Forbidden Cravings from [Ghouls](https://2e.aonprd.com/MonsterFamilies.aspx?ID=419)
+- 1x [Ankhrav](https://2e.aonprd.com/Monsters.aspx?ID=2822)
+
+**Treasure**
+- 1x [Potion of Water Breathing](https://2e.aonprd.com/Equipment.aspx?ID=2956)
+- 1x gold buckle worth 2 gp
+- 1x rusted [Dagger](https://2e.aonprd.com/Weapons.aspx?ID=358) with pearl inlay worth 8 gp
+- 5 gp
+- 3 small obsidians worth 1 gp each
 
 ## C8a. Castaway's Stockade
+**Skills**
+- **Athletics** DC 14 to climb the tree next to the lodge
+- **Perception** DC 14 to notice the spyglass
+- **Perception** DC 19 to view the grindylows wearing Sandara's tricorne hat
+
+**Creatures**
+- 2x [Chokers](https://2e.aonprd.com/Monsters.aspx?ID=583)
+
+**Treasure**
+- 1x [Fine Spyglass](https://2e.aonprd.com/Equipment.aspx?ID=2754)
+- 1x [Potion of Water Breathing](https://2e.aonprd.com/Equipment.aspx?ID=2956)
+- 3x silver shoe buckles worth 1 gp each
+- 1x ghoul finger wearing a gold wedding ring worth 5 gp
+- 1x silver hatpin worth 5 gp
 
 ## C8b. Stockade Lodge
+**Skills**
+- **Athletics or Acrobatics** DC 16 for Arron to escape the collar
+- **Society** DC 16 to notice the clothing is Chelish in style
+- **Perception** DC 16 to find the ring
+
+**Creatures**
+- Arron Ivy - [Ghast](https://2e.aonprd.com/Monsters.aspx?ID=219)
+- [Fen Mosquito Swarm](https://2e.aonprd.com/Monsters.aspx?ID=4481) replacing Pyrexic Malaria with Forbidden Cravings from [Ghouls](https://2e.aonprd.com/MonsterFamilies.aspx?ID=419)
+
+**Treasure**
+- 1x [Leather Armor](https://2e.aonprd.com/Armor.aspx?ID=41)
+- 6x [Spears](https://2e.aonprd.com/Weapons.aspx?ID=365)
+- 8x [High-Fashion Fine Clothing](https://2e.aonprd.com/Equipment.aspx?ID=2715)
+- 1x [Ring of Swimming](https://2e.aonprd.com/Equipment.aspx?ID=3107)
 
 ## C9. Wreck of the Infernus
+**Skills**
+- **Perception** DC 14 to notice the nameplate
+- **Society or Sailing Lore** to identify the ship as Chelish
+- **Perception** DC 16 to locate each buried item
 
-## D. Riptide Cove
+**Creatures**
+- [Weak Giant Moray Eel](https://2e.aonprd.com/Monsters.aspx?ID=2971&Weak=true&NoRedirect=1)
+
+**Treasure**
+- 3x Bottles of Chelish Wine
+- 1x Pair of Chopsticks made of Manticore Spikes
+- 3x Sealed Wax Ewers filled with ashes
 
 ## Riptide Cove Features
+**Lake of Hooks**
+- **Skills**
+  - **Reflex** DC 14 or be hooked
+  - **Athletics or Acrobatics** DC 14 to escape the hooks
+
+**Riptide**
+- **Skills**
+  - **Athletics** DC 14 to swim within the complex
+ 
+**Seaweed**
+- **Skills**
+  - Increase DCs of **Acrobatics** by +2.
 
 ## D1. Riptide Cove
 
