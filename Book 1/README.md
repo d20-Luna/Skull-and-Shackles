@@ -79,7 +79,7 @@ Level | XP Progression          | Milestone
 - Weapon Rack
   - 20x [Clubs](https://2e.aonprd.com/Weapons.aspx?ID=357)
   - 12x [Heavy Crossbows](https://2e.aonprd.com/Weapons.aspx?ID=428)
-  - 20x [Machetes](https://2e.aonprd.com/Weapons.aspx?ID=516)
+  - 20x [Scimitars](https://2e.aonprd.com/Weapons.aspx?ID=393)
   - 50x [Javelins](https://2e.aonprd.com/Weapons.aspx?ID=429)
   - 12x [Spears](https://2e.aonprd.com/Weapons.aspx?ID=365)
   - 20x [Grappling Hooks](https://2e.aonprd.com/Equipment.aspx?ID=2725) attached to 50 feet of [Rope](https://2e.aonprd.com/Equipment.aspx?ID=2748)
@@ -187,7 +187,7 @@ Level | XP Progression          | Milestone
   - **Thievery** DC 20 to unlock the average lock on the chest
   - **Hazard** [Hidden Crossbow Trap](https://2e.aonprd.com/Hazards.aspx?ID=566)
   - 1x [+1](https://2e.aonprd.com/Equipment.aspx?ID=2830) [Crossbow](https://2e.aonprd.com/Weapons.aspx?ID=425)
-  - 3x [Machetes](https://2e.aonprd.com/Weapons.aspx?ID=516)
+  - 3x [Scimitars](https://2e.aonprd.com/Weapons.aspx?ID=393)
   - 31x [Daggers](https://2e.aonprd.com/Weapons.aspx?ID=358)
   - 3x [+1](https://2e.aonprd.com/Equipment.aspx?ID=2830) [Daggers](https://2e.aonprd.com/Weapons.aspx?ID=358)
   - 43x [Darts](https://2e.aonprd.com/Weapons.aspx?ID=426)
