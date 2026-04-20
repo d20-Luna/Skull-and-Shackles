@@ -39,3 +39,17 @@ Wormwood Pirates are just [Pirates](https://2e.aonprd.com/NPCs.aspx?ID=3599) dro
 * [PDF](PDFs/BilgeSpider.pdf)
 
 Bilge Spiders are just [Hunting Spiders](https://2e.aonprd.com/Monsters.aspx?ID=3207) dropped to Level -1 and with webs removed.
+
+### Rahadoumi Sailor
+
+![Rahadoumi Sailor](PNGs/RahadoumiSailor.png)
+
+* [PF2 Tools JSON](JSONs/RahadoumiSailor.json)
+* [PDF](PDFs/RahadoumiSailor.pdf)
+
+### Rahadoumi Officer
+
+![Rahadoumi Officer](PNGs/RahadoumiOfficer.png)
+
+* [PF2 Tools JSON](JSONs/RahadoumiOfficer.json)
+* [PDF](PDFs/RahadoumiOfficer.pdf)
