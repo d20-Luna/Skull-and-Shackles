@@ -15,6 +15,15 @@ Use the PF2 Tools JSON files with [https://monster.pf2.tools/]. Be aware these d
 
 Master Scourge is just an Elite [Pirate](https://2e.aonprd.com/NPCs.aspx?ID=3599) with swapped out gear.
 
+### Mr. Plugg
+
+![Mr. Plugg](PNGs/MrPlugg.png)
+
+* [PF2 Tools JSON](JSONs/MrPlugg.json)
+* [PDF](PDFs/MrPlugg.pdf)
+
+Mr. Plugg is built as a [Pirate](https://2e.aonprd.com/NPCs.aspx?ID=3599) increased to Level 4 with stronger gear.
+
 ### Owlbear Hartshorn
 
 ![Owlbear Hartshorn](PNGs/OwlbearHartshorn.png)
