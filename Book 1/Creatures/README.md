@@ -13,6 +13,8 @@ Use the PF2 Tools JSON files with [https://monster.pf2.tools/]. Be aware these d
 * [PF2 Tools JSON](JSONs/MasterScourge.json)
 * [PDF](PDFs/MasterSourge.pdf)
 
+Master Scourge is just an Elite [Pirate](https://2e.aonprd.com/NPCs.aspx?ID=3599) with swapped out gear.
+
 ### Owlbear Hartshorn
 
 ![Owlbear Hartshorn](PNGs/OwlbearHartshorn.png)
