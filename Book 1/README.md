@@ -40,7 +40,7 @@ As you start to move, you hear commotion from above...
 
 **Creatures:**
 - [Master Scourge^](Creatures/README.md#master-scourge)
-- [Wormwood Pirates^](Creatures/README.md#wormwood-pirates).
+- [Wormwood Pirates^](Creatures/README.md#wormwood-pirate).
 
 ## Mr. Plugg's Tests
 
@@ -429,7 +429,7 @@ As you start to move, you hear commotion from above...
 
 ## Day 2: Laying Down the Law
 **Creatures**
-- 4x [Wormwood Pirates^](Creatures/README.md#wormwood-pirates)
+- 4x [Wormwood Pirates^](Creatures/README.md#wormwood-pirate)
 
 ## Day 4: Something in the Bilges
 **Skills**
@@ -818,6 +818,10 @@ As you start to move, you hear commotion from above...
   - 15 gp
 
 ## Mutiny!
+- **Creatures**
+  - [Mr. Plugg](/Creatures/README.md#mr-plugg)
+  - [Master Scourge](/Creatures/README.md#master-scourge)
+  - 8x [Wormwood Pirates](/Creatures/README.md#wormwood-pirate) (though this number may change based on party actions and inactions)
 
 ## Concluding the Adventure
 
