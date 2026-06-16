@@ -737,20 +737,85 @@ As you start to move, you hear commotion from above...
   - Increase DCs of **Acrobatics** by +2.
 
 ## D1. Riptide Cove
+- **Skills**
+  - **Athletics** DC 18 to scale the cliffs around the cove
+  - **Survival or Sailing Lore** DC 16 to recognize that the cove's dark waters indicate no rocks below
+  - **Acrobatics or Athletics** DC 18 to dive into the water successfully
+
+- **Creatures**
+  - 8x [Bloodseekers](https://2e.aonprd.com/Monsters.aspx?ID=51)
 
 ## D2. The Neck
+- **Skills**
+  - **Athletics** DC 18 to swim through the tunnel
+ 
+- **Creatures**
+  - 4x [Grindylows](https://2e.aonprd.com/Monsters.aspx?ID=3038)
 
 ## D3. The Fronds
+- **Creatures**
+  - 8x [Grindylows](https://2e.aonprd.com/Monsters.aspx?ID=3038)
+ 
+- **Treasure**
+  - 1x [Besmara's Tricorn](/Items/README.md#besmaras-tricorn)
 
 ## D4. The Mesh
+- **Skills**
+  - **Perception** DC 20 to notice the metal bars forming the "cavern floor"
+  - **Athletics** DC 23 to remove the metal bars
+
+- **Creatures**
+  - 2x [Lacedons](https://2e.aonprd.com/Monsters.aspx?ID=1865)
+ 
+- **Treasure**
+  - 1x [Anchor Feather Token](https://2e.aonprd.com/Equipment.aspx?ID=3002&Redirected=1)
+  - 12 gp
 
 ## D5. The Cataract
+- **Creatures**
+  - 1x [Devilfish](/Creatures/README.md#devilfish)
+ 
+- **Treasure**
+  - 1x [Bracer of Missile Deflection](https://2e.aonprd.com/Equipment.aspx?ID=3061) (must find its pair to function)
 
 ## D6. The Drowning Cave
+- **Hazards**
+  - 1x [Drowning Spikes Trap](/Hazards/README.md#drowning-spikes-trap)
 
 ## D7. The Gullet
+- **Creatures**
+  - 8x [Grindylows](https://2e.aonprd.com/Monsters.aspx?ID=3038)
+ 
+- **Treasure**
+  - 1x [Wand of Shocking Haze](https://2e.aonprd.com/Equipment.aspx?ID=2290)
 
 ## D8. The Cauldron
+- **Skills**
+  - **Athletics** DC 16 to avoid sinking if tripped
+
+- **Creatures**
+  - [The Brinebrood Queen](/Creatures/README.md#the-brinebrood-queen)
+  - [The Whale](/Creatures/README.md#the-whale)
+  - 2x [Lacedons](https://2e.aonprd.com/Monsters.aspx?ID=1865)
+ 
+- **Treasure**
+  - 1x Whale Skull Scrimshaw containing
+    - [Illusory Disguise](https://2e.aonprd.com/Spells.aspx?ID=1568)
+    - [Slither](https://2e.aonprd.com/Spells.aspx?ID=1676)
+    - [Blur](https://2e.aonprd.com/Spells.aspx?ID=1455)
+    - [Dizzying Colors](https://2e.aonprd.com/Spells.aspx?ID=1500)
+    - [Radiant Globe](https://2e.aonprd.com/Spells.aspx?ID=2464)
+    - [Enlarge](https://2e.aonprd.com/Spells.aspx?ID=1514)
+    - [Hypnotize](https://2e.aonprd.com/Spells.aspx?ID=1564)
+    - [Slow](https://2e.aonprd.com/Spells.aspx?ID=1677)
+    - [Stupefy](https://2e.aonprd.com/Spells.aspx?ID=1691)
+    - [Vampiric Feast](https://2e.aonprd.com/Spells.aspx?ID=1736)
+  - 8x [Silver Ingots](https://2e.aonprd.com/Equipment.aspx?ID=2920)
+  - 4x [Climbing Bolts](https://2e.aonprd.com/Equipment.aspx?ID=2922)
+  - 1x Silver Spearhead
+  - 1x [Bracer of Missile Deflection](https://2e.aonprd.com/Equipment.aspx?ID=3061) (must find its pair to function)
+  - 22 sp
+  - 15 gp
 
 ## Mutiny!
 
