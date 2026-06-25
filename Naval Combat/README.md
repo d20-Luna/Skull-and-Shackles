@@ -1,7 +1,7 @@
 https://www.gmbinder.com/share/-MJcsnRPswr00DvK6bV0
 
 
-Boarding & Grappling
+# Boarding & Grappling
 
 When a crew wishes to board an enemy's vehicle and attack its crew, they must first grapple the other ship. Before a vehicle can grapple another vehicle, they must be in adjacent hexes or within 30 feet of one another. If both pilots of the vehicles want to grapple, the action immediately happens and no check is required. The two crews throw out rope and draw the vehicles together, making each ship's speed reduced to 0 and uncontrolled.
 Ramming
