@@ -7,10 +7,10 @@ When a crew wishes to board an enemy's vehicle and attack its crew, they must fi
 Ramming
 
 If you take the Run Over action and successfully ram the other vehicle, and they take your vehicle's Collision damage, you can immediately take the Grapple action as a reaction.
-Grappling
+## Grappling
 
 If the other vehicle does not wish to be grappled, the pilot of the vehicle can use the following action to force them into grappled position.
-Grapple
+### Grapple
 
     Attack / Reckless
     Requirements You are piloting a vehicle, and your vehicle is adjacent to the target vehicle.
@@ -22,10 +22,10 @@ You attempt to lock your vehicle with another, grappling them and allowing your 
     Failure Your speed is reduced to 0.
     Critical Failure As a failure, and your vehicle takes its own collision damage or the opponent's vehicle moves up to its speed once as the pilot's reaction (their choice).
 
-Breaking a Grapple
+### Breaking a Grapple
 
 If a pilot finds their ship being grappled, and they don't want to be in this situation, on their next turn directly following being grappled, they can attempt to break the grapple. This might mean that some of the opponent's crew members make it onto the vehicle before they can break the grapple.
-Escape
+### Escape
 
     Attack
     Requirements You are piloting a vehicle that has been grabbed since the end of your last turn
@@ -36,10 +36,10 @@ You attempt to break your vehicle out of being grabbed, immobilized, or restrain
     Success Your vehicle gets free and remove the grabbed, immobilized, and restrained conditions imposed by your chosen target.
     Critical Failure Your vehicle doesn't break free and you can't attempt to Escape again.
 
-Grapple Lines
+### Grapple Lines
 
 Most grapple lines can only be used up close, though you can purchase grapple line sets that allow you to grapple a vehicle up to 60 feet away. You need a number of grapple line sets equal to the target vehicle's size modifier to start pulling them closer, otherwise you must be in an adjacent square to the vehicle to grapple them with shorter grapple lines and boarding planks.
-Boarding
+## Boarding
 
 Once two vehicles are locked together, the pilot, or captain, can order the crew to board the opposing ship and ship-to-ship combat comes to an end unless the opposing pilot can successfully take the Escape action on their next turn. Once boarding begins, normal combat takes place. Ships are typically 5 to 10 feet away from each other in this position.
 Handling Vehicle Crews
