@@ -21,3 +21,5 @@ Once per day, the *tidewater cutlass* can be used to cast a 1st-rank *[hydraulic
 This *+1 boarding pike* is an 8-foot-long pole topped with a tapered metal spearpoint and a backward-facing hook, used to draw vessels closer together or repel boarders. A metal skull caps the butt of the pike.
 
 As an Interact action, the pike can be extended to have a reach of 20 feet for 1 round. While extended in this way, the pike cannot be used to target adjacent creatures.
+
+## Besmara's Tricorn
