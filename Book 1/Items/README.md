@@ -24,4 +24,14 @@ As an Interact action, the pike can be extended to have a reach of 20 feet for 1
 
 ## Besmara's Tricorn
 
+**Level** 5
+
+This black leather tricorne is weather-beaten and salt-stained. It grants its wearer a +2 item bonus on Lore (Sailing) and Athletics checks made to Swim.
+
+If Besmara is your worshipped deity, once per day, you can transform the tricorne into a [Cutter](https://2e.aonprd.com/Vehicles.aspx?ID=74) with an Interact action. Returning the tricorne to its hat shape is another Interact action or after 8 hours, whichever comes first, dumping out any occupants.
+
 ## Vindictive Harpoon
+
+**Level** 10
+
+This *+2 striking returning underwater harpoon* is made from the jagged, scrimshaw-carved tusk of a narwhal attached to 50-feet of woven sinew.
