@@ -29,8 +29,8 @@ If a pilot finds their ship being grappled, and they don't want to be in this si
 
 ### Escape
 
-    **Attack**
-    **Requirements** You are piloting a vehicle that has been grabbed since the end of your last turn
+    Attack
+    Requirements You are piloting a vehicle that has been grabbed since the end of your last turn
 
 You attempt to break your vehicle out of being grabbed, immobilized, or restrained. Choose one creature, object, vehicle or other impediment that has grabbed you. Attempt a piloting check against the Fortitude DC of the opposing vehicle.
 
