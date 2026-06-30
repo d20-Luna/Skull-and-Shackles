@@ -4,7 +4,8 @@ https://www.gmbinder.com/share/-MJcsnRPswr00DvK6bV0
 # Boarding & Grappling
 
 When a crew wishes to board an enemy's vehicle and attack its crew, they must first grapple the other ship. Before a vehicle can grapple another vehicle, they must be in adjacent hexes or within 30 feet of one another. If both pilots of the vehicles want to grapple, the action immediately happens and no check is required. The two crews throw out rope and draw the vehicles together, making each ship's speed reduced to 0 and uncontrolled.
-Ramming
+
+## Ramming
 
 If you take the Run Over action and successfully ram the other vehicle, and they take your vehicle's Collision damage, you can immediately take the Grapple action as a reaction.
 ## Grappling
@@ -25,10 +26,11 @@ You attempt to lock your vehicle with another, grappling them and allowing your 
 ### Breaking a Grapple
 
 If a pilot finds their ship being grappled, and they don't want to be in this situation, on their next turn directly following being grappled, they can attempt to break the grapple. This might mean that some of the opponent's crew members make it onto the vehicle before they can break the grapple.
+
 ### Escape
 
-    Attack
-    Requirements You are piloting a vehicle that has been grabbed since the end of your last turn
+    **Attack**
+    **Requirements** You are piloting a vehicle that has been grabbed since the end of your last turn
 
 You attempt to break your vehicle out of being grabbed, immobilized, or restrained. Choose one creature, object, vehicle or other impediment that has grabbed you. Attempt a piloting check against the Fortitude DC of the opposing vehicle.
 
