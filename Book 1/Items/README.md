@@ -23,3 +23,5 @@ This *+1 boarding pike* is an 8-foot-long pole topped with a tapered metal spear
 As an Interact action, the pike can be extended to have a reach of 20 feet for 1 round. While extended in this way, the pike cannot be used to target adjacent creatures.
 
 ## Besmara's Tricorn
+
+## Vindictive Harpoon
