@@ -33,6 +33,10 @@ Mr. Plugg is built as a [Pirate](https://2e.aonprd.com/NPCs.aspx?ID=3599) increa
 
 Owlbear is built as a [Pirate](https://2e.aonprd.com/NPCs.aspx?ID=3599) with swapped out gear and an added weakness.
 
+### The Brinebrood Queen
+
+### The Whale
+
 ## New Creatures
 
 ### Wormwood Pirate
@@ -66,3 +70,6 @@ Bilge Spiders are just [Hunting Spiders](https://2e.aonprd.com/Monsters.aspx?ID=
 
 * [PF2 Tools JSON](JSONs/RahadoumiOfficer.json)
 * [PDF](PDFs/RahadoumiOfficer.pdf)
+
+### Devilfish
+
