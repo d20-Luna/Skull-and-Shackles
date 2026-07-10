@@ -33,6 +33,30 @@ Mr. Plugg is built as a [Pirate](https://2e.aonprd.com/NPCs.aspx?ID=3599) increa
 
 Owlbear is built as a [Pirate](https://2e.aonprd.com/NPCs.aspx?ID=3599) with swapped out gear and an added weakness.
 
+### Ambrose Kroop
+
+### Aretta Bansion
+
+### Badger Medlar
+
+### Conchobhar Shortstone
+
+### Fipps Chumlett
+
+### Jaundiced Jape
+
+### Maheem
+
+### Rosie Cusswell
+
+### Sandara Quinn
+
+### Shivikah
+
+### Slippery Syl Lonegan
+
+### Tam Narwhal Tate
+
 ### The Brinebrood Queen
 
 ### The Whale
