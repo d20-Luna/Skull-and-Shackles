@@ -327,14 +327,23 @@ As you start to move, you hear commotion from above...
 **Creatures**
 - [Sandara Quinn](Creatures/README.md#sandara-quinn)
 - [Rosie Cusswell](Creatures/README.md#rosie-cusswell)
-- [Crimson "Cog" Cogward](Creatures/README.md#cog)
-- Conchobhar Turlach Shortstone - treat as a [Gnome Bard](https://2e.aonprd.com/NPCs.aspx?ID=3020) with a [Sword Cane](https://2e.aonprd.com/Weapons.aspx?ID=400)
+- [Crimson "Cog" Cogward](Creatures/README.md#crimson-cogward)
+- [Conchobhar Turlach Shortstone](Creatures/README.md#conchobhar-shortstone)
+- ["Badger" Medlar](Creatures/README.md#badger-medlar)
+- [Aretta Bansion](Creatures/README.md#aretta-bansion)
+- [Fipps Chumlett](Creatures/README.md#fipps-chumlett)
+- [Jaundiced Jape](Creatures/README.md#jaundiced-jape)
+- [Maheem](Creatures/README.md#maheem)
+- [Shivikah](Creatures/README.md#shivikah)
+- [Slippery Syl Lonegan](Creatures/README.md#slippery-syl-lonegan)
+- [Tam "Narwhal" Tate](Creatures/README.md#tam-narwhal-tate)
 
 ## The Wormwood's Officers
 **Creatures**
 - [Mr. Plugg](Creatures/README.md#mr-plugg)
 - [Master Scourge](Creatures/README.md#master-scourge)
 - [Owlbear Hartshorn](Creatures/README.md#owlbear-hartshorn)
+- [Ambrose "Fishguts" Kroop](Creatures/README.md#ambrose-kroop)
 
 ## A Pirate's Day
 
